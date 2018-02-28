@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SudokuSolver</string>
+    <string name="solve">Solve</string>
+    <string name="sudoku_solver">Sudoku Solver</string>
+    <string name="settings">Settings</string>
+    <string name="clear">Clear</string>
+    <string name="tryExample">Try Example Sudoku</string>
+    <string name="sudoku_intermediate">Sudoku Intermediate</string>
+    <string name="sudoku_hard">Sudoku Hard</string>
+    <string name="color">Color</string>
+    <string name="sudoku_easy">Sudoku Easy</string>
+    <string name="try_japanese_super_sudoku">Try Japanese Super Sudoku</string>
+</resources>
